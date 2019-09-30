@@ -1,4 +1,11 @@
-.class{
+.caption{
     font-size: 150px;
     color: gray;
 }
+
+button{
+    height: 50px;
+    width: 200px;
+    font-size: 45px;
+}
+
