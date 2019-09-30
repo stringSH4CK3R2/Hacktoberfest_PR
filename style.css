@@ -9,3 +9,9 @@ button{
     font-size: 45px;
 }
 
+body{
+    background-image: url("https://miro.medium.com/max/4268/1*aqP09YcxgiuK4p1-PQljaw.png");
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
