@@ -1,14 +1,22 @@
 .caption{
     font-size: 150px;
-    color: gray;
+    color: aqua;
+    font-family: "monospace";
+    font-style: italic;
 }
 
 button{
     height: 50px;
     width: 200px;
-    font-size: 45px;
+    font-size: 30px;
+    color: aqua;
+    background-color: purple;
+    font-family: monospace;
+    border: 2px solid aqua;
 }
-
+#content {
+    text-align: center;
+}
 body{
     background-image: url("https://miro.medium.com/max/4268/1*aqP09YcxgiuK4p1-PQljaw.png");
     background-repeat: no-repeat;
