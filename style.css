@@ -1,17 +1,25 @@
 .caption{
-    font-size: 150px;
-    color: gray;
+    font-size: 120px;
+    color: aqua;
+    font-family: "monospace";
+    font-style: italic;
 }
 
 button{
-    height: 50px;
     width: 200px;
-    font-size: 45px;
+    font-size: 30px;
+    color: aqua;
+    background-image: url("https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611a654d6c5ac331772477eab0b4f482022b48ee365&rid=giphy.gif");
+    font-family: monospace;
+    border: 2px solid aqua;
+    height: 200px;
+    width: 200px;
 }
-
+#content {
+    text-align: center;
+}
 body{
     background-image: url("https://miro.medium.com/max/4268/1*aqP09YcxgiuK4p1-PQljaw.png");
     background-repeat: no-repeat;
     background-size: auto;
 }
-
