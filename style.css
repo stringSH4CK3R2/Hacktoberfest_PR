@@ -12,14 +12,13 @@ button{
     background-image: url("https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=790b7611a654d6c5ac331772477eab0b4f482022b48ee365&rid=giphy.gif");
     font-family: monospace;
     border: 2px solid aqua;
-    height: 200px;
-    width: 200px;
+    height: 100px;
 }
 #content {
     text-align: center;
 }
 body{
-    background-image: url("https://miro.medium.com/max/4268/1*aqP09YcxgiuK4p1-PQljaw.png");
-    background-repeat: no-repeat;
-    background-size: auto;
+    background-image: url("https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full2.aa1e9d9.svg");
+    background-size: 100%;
+    background-position: 0px -200px;
 }
