@@ -23,3 +23,9 @@ body{
     background-repeat: no-repeat;
     background-size: auto;
 }
+
+.button_text {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+}
